@@ -13,5 +13,7 @@ Issued by: [Cambridge](https://drive.google.com/file/d/1Kq9A2srDfNnY8x99Nri2Mob_
 ---
 
 Feel free to explore the certificates and check out the links for more details.
+
 Thanks.
+
 :) 
