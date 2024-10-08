@@ -1,6 +1,6 @@
 # Certificates
 
-This repository contains some of the certificates I've earned in various fields.
+This repository contains some of my the certificates.
 
 ## List of Certificates
 
